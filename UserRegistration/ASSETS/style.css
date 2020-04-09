@@ -1,0 +1,41 @@
+body{
+
+    background: brown;
+}
+
+
+h1{
+    align-items: center;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.site-form
+{
+    margin-top: 60px;
+    border:1px solid #00dba0;
+    padding: 20px;
+}
+
+.site-form input ,.site-form textarea
+{
+    display: block;
+    margin:10px,0,0,0;
+    padding:2px;
+    
+}
+
+.site-form label
+{
+    color: white;
+    padding:2px;
+    margin:20px,0,0,0;
+}
+
+.helptext, .helptext ul
+{
+    display: block;
+    color:#bbb;
+    font-size: .9em;
+    margin:0 auto 20px;
+}
